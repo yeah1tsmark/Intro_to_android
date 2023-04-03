@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Authentication-android_Mark</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
